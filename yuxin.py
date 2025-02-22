@@ -1,8 +1,8 @@
 import requests
 
-__ENDPOINT_URL__: str = "https://ashuraa.squareweb.app/api"
+__ENDPOINT_URL__: str = "https://yuxinstore.squareweb.app/api"
 
-class OfficialGoodShit:
+class CPMTooldev:
     def __init__(self, access_key) -> None:
         self.auth_token = None
         self.access_key = access_key
